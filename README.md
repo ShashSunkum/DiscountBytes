@@ -49,7 +49,7 @@ Then, access the application by navigating to `http://127.0.0.1:5000/` in your w
 
 ## Usage Instructions
 
-1. **Login Page**: Presents unique login ID fro registered restaurants, data stored in SQLite database, and checks if credentials match.
+1. **Login Page**: Presents unique login ID for registered restaurants, data stored in SQLite database, and checks if credentials match.
 2. **Feature Option**: Shows 3 options for adding items and tracking dynamic prices of food items or clocking-in employees by facial recogintion and finally the number of staff predictor from past data of restaurant traffic and number of staff members.
 3. **Function Specifc Site**: Respective web pages for each of these functionalities, and their outputs.  
 
