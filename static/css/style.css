@@ -1,0 +1,18 @@
+body {
+    background-color: #f4f7f6;
+    margin-top: 20px;
+}
+
+.login-form {
+    border: 1px solid #dee2e6;
+    border-radius: 1.5rem;
+}
+
+.login-form h4 {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.login-form hr {
+    margin: 20px 0;
+}
