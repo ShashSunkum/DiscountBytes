@@ -36,16 +36,26 @@ Follow these steps to set up the project environment:
     ```bash
     pip install -r requirements.txt
     ```
+3. Configure the application environment variables for development:
+
+    ```bash
+    export FLASK_APP=web_app.py
+    export FLASK_ENV=development
+    ```    
 
 ### Running the Application
 
 To launch the web application, execute:
 
-```bash
-flask run
-```
+1. To run the web server:
+    ```bash
+    flask run
+    ```
 
-Then, access the application by navigating to `http://127.0.0.1:5000/` in your web browser.
+2. Go to the following link for local hosting on web browser to access application:
+    ```hyperlink
+    http://127.0.0.1:5000/
+    ```
 
 ## Usage Instructions
 
